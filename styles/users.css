@@ -1,0 +1,74 @@
+.Signin-form{
+    margin-top:-1%;
+}
+.Signin-form input{
+    border: solid black 1px;
+    height: 50px;
+}
+.Signin-form .Link{
+    text-decoration: none;
+}
+.signin-btn button{
+    background-color: black;
+    color: white;
+}
+.hori h2 {
+    width: 100%; 
+    text-align: center; 
+    font-size: 16px;
+    border-bottom: 2px solid #000; 
+    line-height: 0.1em;
+    margin: 9px 0px 30px; 
+ } 
+ 
+.hori h2 span { 
+    background:#fff; 
+    padding:0 20px; 
+ }
+
+.hovi:hover{
+    /* background-color: #EC9B3B;
+    transition: 0.5s; */
+    border: solid purple 1.5px;
+}
+
+.logi:hover{
+    transform: scale(1.2);
+    transition: 0.7s;
+}
+.signinwith button{
+    border: solid lightblue 1px;
+    background-color: white;
+ }
+.signinwith .gg-signin{
+    background-color: black;
+    color: white;
+}
+.signinwith .gg-signin:hover{
+    color:white
+}
+
+
+.phone-input{
+    display: flex;
+    float: left;
+    width: 100%;
+    flex-wrap: nowrap;
+}
+.phone-input select{
+    width: 50%;
+    border: solid black 1px;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 4px 0px 0px 4px;
+}
+.phone-input option{
+    padding: 15px;
+}
+input[id=email] {
+    border-radius: 0px 4px 4px 0px;
+  }
+  
+  .btnClass{
+      background-color: #180A0A;
+  }
